@@ -1,13 +1,17 @@
-Documentación del Proyecto
-==========================
+Aeternum - Documentación Técnica
+================================
 
-Bienvenido a la documentación del proyecto.  
-Aquí encontrarás la descripción de los módulos y rutas principales.
+Bienvenido a la documentación oficial del proyecto **Aeternum**, 
+una plataforma moderna de biblioteca virtual con préstamos físicos y digitales.
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Módulos:
+   :maxdepth: 2
+   :caption: Contenido
 
-   auth_routes
-   password_reset
-   usuario
+   introduccion
+   arquitectura
+   instalacion
+   backend
+   frontend
+   api
+   seguridad
